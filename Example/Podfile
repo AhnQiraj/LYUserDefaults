@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LYUserDefaults_Tests' do
+  pod 'LYUserDefaults', :path => '../'
+  
+  
+end
