@@ -1,0 +1,16 @@
+PODS:
+  - LYUserDefaults (0.1.0)
+
+DEPENDENCIES:
+  - LYUserDefaults (from `../`)
+
+EXTERNAL SOURCES:
+  LYUserDefaults:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LYUserDefaults: 051d37599c84fe55df203337d1c8a8c9495e733f
+
+PODFILE CHECKSUM: 21d5999ff677481d72620c9b58e1fa7233cb533c
+
+COCOAPODS: 1.0.1

@@ -1,0 +1,6 @@
+framework module LYUserDefaults {
+  umbrella header "LYUserDefaults-umbrella.h"
+
+  export *
+  module * { export * }
+}
